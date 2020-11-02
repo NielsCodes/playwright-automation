@@ -2,7 +2,7 @@
   "name": "playwright-automation",
   "version": "1.0.0",
   "description": "Fetch a word from scraping-target.niels.codes using Playwright and write it to Google Sheets",
-  "homepage": "https://niels.codes",
+  "homepage": "https://github.com/NielsKersic/playwright-automation",
   "main": "dist/app.js",
   "scripts": {
     "build": "tsc"
