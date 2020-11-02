@@ -2,9 +2,10 @@
   "name": "playwright-automation",
   "version": "1.0.0",
   "description": "Fetch values from any public web page using Playwright and deploy it to Google Cloud Run",
+  "homepage": "https://niels.codes",
   "main": "dist/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc"
   },
   "keywords": [
     "playwright",
