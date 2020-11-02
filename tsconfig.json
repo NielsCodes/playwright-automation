@@ -1,0 +1,20 @@
+{
+  "compilteOnSave": true,
+  "compilerOptions": {
+    "module": "commonjs",
+    "noImplicitReturns": false,
+    "noUnusedLocals": false,
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017",
+    "esModuleInterop": true,
+    "typeRoots": [
+      "./node_modules/@types"
+    ]
+  },
+  "compileOnSave": true,
+  "include": [
+    "src"
+  ]
+}
